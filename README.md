@@ -1,4 +1,7 @@
-Dataset - Laramie_Enduro_2014.gpx
+#GPX parsing
+
+**Dataset:**
+Laramie_Enduro_2014.gpx
 
 **Implemented functionality:**
 
