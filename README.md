@@ -1,5 +1,7 @@
 # GPX parsing
 
+Parsing and extracting useful information from geodata(GPS data)
+
 **Dataset:**
 Laramie_Enduro_2014.gpx
 
